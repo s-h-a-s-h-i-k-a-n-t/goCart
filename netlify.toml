@@ -1,0 +1,10 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+# Netlify uses the Next.js Runtime (plugin) to serve .next output.
+# This file pins the build settings so the UI doesn't need manual edits.
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+

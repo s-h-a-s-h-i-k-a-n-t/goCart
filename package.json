@@ -19,7 +19,11 @@
     "react-redux": "^9.2.0",
     "recharts": "^3.1.2"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.13.4",
     "@tailwindcss/postcss": "^4",
     "tailwindcss": "^4"
   }
