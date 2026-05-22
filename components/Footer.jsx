@@ -182,7 +182,7 @@ const Footer = () => {
     { icon: FacebookIcon, link: "https://www.facebook.com" },
     { icon: InstagramIcon, link: "https://www.instagram.com" },
     { icon: TwitterIcon, link: "https://twitter.com" },
-    { icon: LinkedinIcon, link: "www.linkedin.com/in/shashi-kant-b26459130" },
+    { icon: LinkedinIcon, link: "https://www.linkedin.com/in/shashi-kant-b26459130" },
   ];
 
   return (
